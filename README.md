@@ -1,2 +1,2 @@
-REMOTE
+LOCAL
 blablabla allez l'OM
