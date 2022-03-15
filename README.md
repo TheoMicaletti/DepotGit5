@@ -1,2 +1,2 @@
-# DepotGit5
+REMOTE
 blablabla allez l'OM
